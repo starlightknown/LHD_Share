@@ -4,6 +4,8 @@ A repository for all the LHD small projects
 -Eddie Snake Run Game 
 [Demo here](https://youtu.be/6RGPandlOxg)
 
+![game](game.png)
+
 -Flask starter project 
 getting started with flask
 
