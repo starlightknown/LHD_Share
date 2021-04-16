@@ -1,3 +1,0 @@
-import pywhatkit as kit
-
-kit.sendwhatmsg("+919*********", "good morning, you can do it!", 18, 21)
